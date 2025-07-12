@@ -1,0 +1,4 @@
+{"timestamp": "2025-07-12T10:15:02", "level": "INFO", "message": "User logged in"}
+{"timestamp": "2025-07-12T10:15:30", "level": "DEBUG", "message": "Fetching user data"}
+{"timestamp": "2025-07-12T10:15:45", "level": "WARNING", "message": "Low disk space"}
+{"timestamp": "2025-07-12T10:16:00", "level": "ERROR", "message": "Failed to connect"}

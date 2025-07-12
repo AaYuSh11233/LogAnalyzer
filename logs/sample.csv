@@ -1,0 +1,5 @@
+timestamp,level,message
+2025-07-12 10:15:02,INFO,User logged in
+2025-07-12 10:16:00,ERROR,Failed to connect
+2025-07-12 10:15:30,DEBUG,Fetching user data
+2025-07-12 10:15:45,WARNING,Low disk space
